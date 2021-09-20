@@ -1,1 +1,1 @@
-# Cash-Register
+# Cash-Register (Javascript)
